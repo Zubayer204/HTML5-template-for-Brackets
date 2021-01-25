@@ -29,14 +29,14 @@ define(function (require, exports, module) {
                 "\t<meta name=\"author\" content=\"Your Name\">\n" +
                 "\t<meta name=\"description\" content=\"Example description\">\n" +
                 "\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n" +
-                "\t<link rel=\"stylesheet\" href=\"\">\n" +
+                "\t<link rel=\"stylesheet\" href=\"style.css\">\n" +
                 "\t<link rel=\"icon\" type=\"image/x-icon\" href=\"\"/>\n" +
                 "</head>\n\n" +
                 "<body>\n" +
                 "\t<header></header>\n" +
                 "\t<main></main>\n" +
                 "\t<footer></footer>\n" +
-                "\t<script type=\"text/javascript\" src=\"\"></script>\n" +
+                "\t<script type=\"text/javascript\" src=\"script.js\"></script>\n" +
                 "</body>\n\n" +
                 "</html>";
 
